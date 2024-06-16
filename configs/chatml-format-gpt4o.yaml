@@ -93,5 +93,7 @@ mtbench:
   conv_system_message: "以下は、タスクを説明する指示と、文脈のある入力の組み合わせです。要求を適切に満たす応答を書きなさい。"
   conv_roles: "('<|im_start|>user', '<|im_start|>assistant')"
   conv_sep: "<|im_end|>"
+  conv_sep2: ""
   conv_sep_style: "chatml"
   conv_stop_token_ids: "[2, 65000]"
+  conv_stop_str: ""

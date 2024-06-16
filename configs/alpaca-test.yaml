@@ -1,6 +1,6 @@
 wandb:
   log: True
-  entity: "aratako1998"
+  entity: "aratako-lm"
   project: "nejumi-leaderboard"
   run_name: 'alpaca-test' # use run_name defined above
 

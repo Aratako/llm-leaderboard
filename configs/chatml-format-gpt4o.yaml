@@ -94,4 +94,4 @@ mtbench:
   conv_roles: "('<|im_start|>user', '<|im_start|>assistant')"
   conv_sep: "<|im_end|>"
   conv_sep_style: "chatml"
-  conv_stop_token_ids: "[2, 65002]"
+  conv_stop_token_ids: "[2, 65000]"

@@ -2,7 +2,7 @@ wandb:
   log: True
   entity: "weblab-geniac8"
   project: "nejumi_leaderboard"
-  run_name: 'team たぬき' 
+  run_name: 'team たぬき'
 
 github_version: v2.0.0 #for recording
 

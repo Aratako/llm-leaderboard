@@ -2,7 +2,7 @@ wandb:
   log: True
   entity: "aratako-lm"
   project: "nejumi-leaderboard"
-  run_name: 'alpaca-test' # use run_name defined above
+  run_name: 'alpaca-format-gpt4o' # use run_name defined above
 
 github_version: v2.0.0 #for recording
 
@@ -57,7 +57,7 @@ custom_fewshots_template: null
 # "\n### 入力：\n{input}\n### 回答：\n{output}"
 
 metainfo:
-  basemodel_name: "alpaca-test"
+  basemodel_name: "alpaca-format-gpt4o"
   model_type: "open llm" # {open llm, commercial api}
   instruction_tuning_method: "None" # {"None", "Full", "LoRA", ...}
   instruction_tuning_data: ["None"] # {"None", "jaster", "dolly_ja", "oasst_ja", ...}

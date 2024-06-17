@@ -96,4 +96,4 @@ mtbench:
   conv_sep2: "<|eot_id|>"
   conv_sep_style: "llama3"
   conv_stop_token_ids: "[2, 65002]"
-  conv_stop_str: "<|start_header_id|>"
+  conv_stop_str: ""
